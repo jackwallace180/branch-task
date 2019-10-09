@@ -1,5 +1,5 @@
 
-# ;bread: :bacon: :bread: Task :taco: :taco:
+# :bread: :bacon: :bread: Task :taco: :taco:
 1) create  new repo
 2) enable Git
 3) connect to Github (remote)
@@ -15,3 +15,13 @@
 9) add/commit and push to origin again
 10) merge in Github
 11) update your master again
+
+
+## branches
+ - git checkout -b branchname --> this will add a branch to your master
+ - git checkout branchname --> this moves to your desired branch
+ - git push origin branchname --> if you have an origin (github) this will push your branch to the origin WITHOUT MERGING (merging is done on github)
+### once branch is in github - you can merge branches to master
+
+### once back in master on your terminal
+ - git pull origin master --> this will pull your github origin/master to your terminal master (match up the timelines)
