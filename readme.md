@@ -1,5 +1,5 @@
-:bread: :taco:
 
+# ;bread: :bacon: :bread: Task :taco: :taco:
 1) create  new repo
 2) enable Git
 3) connect to Github (remote)
